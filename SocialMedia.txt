@@ -3,3 +3,8 @@ FaceBook
 Instagram
 LinkedIn
 Slack
+Snapchat
+TikTok
+Tumblr
+Twitter
+YouTube
